@@ -1,0 +1,6 @@
+pandas
+numpy
+flask
+
+# because of -e setup.py will get trigger
+-e .
